@@ -1,0 +1,23 @@
+{
+  "algorithm": "JADE",
+  "best_run": "run1",
+  "f1_validation": 0.9907,
+  "f1_test": 0.9721,
+  "training_time_s": 105.32,
+  "hyperparameters": {
+    "d_model": 160,
+    "n_heads": 4,
+    "n_layers": 3,
+    "ffw_mult": 3.61,
+    "dropout": 0.175,
+    "lr": 0.000865,
+    "batch_size": 64
+  },
+  "average_10_runs": {
+    "f1_validation_mean": 0.9819,
+    "f1_validation_std": 0.0069,
+    "f1_test_mean": 0.9689,
+    "f1_test_std": 0.0064,
+    "time_mean_s": 82.67
+  }
+}
