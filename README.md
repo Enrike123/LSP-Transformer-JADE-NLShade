@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 Este repositorio contiene el código fuente, el notebook de optimización y los resultados del sistema de reconocimiento automático del **Lenguaje de Señas Peruano (LSP)** propuesto en la tesis de maestría. El sistema integra:
 
@@ -20,7 +20,7 @@ Este repositorio contiene el código fuente, el notebook de optimización y los 
 
 ---
 
-## 🏆 Resultados principales
+## Resultados principales
 
 | Modelo | Parámetros | F1-macro (Val) | F1-macro (Test) | Latencia |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ Las mejoras sobre el modelo base son estadísticamente significativas (p < 0.001
 
 ---
 
-## 📁 Estructura del repositorio
+## Estructura del repositorio
 
 ```
 LSP-Transformer-JADE-NLShade/
@@ -50,15 +50,15 @@ LSP-Transformer-JADE-NLShade/
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 El dataset no está incluido directamente en este repositorio por su tamaño (316.5 MB). Está disponible en Google Drive:
 
 - **Dataset preprocesado** (`.npy`, 316.5 MB):  
-  🔗 [gesture_dataset12clases_5aum.npy — Google Drive](https://drive.google.com/ENLACE_DATASET_NPY)
+  🔗 [gesture_dataset12clases_5aum.npy — Google Drive]([https://drive.google.com/ENLACE_DATASET_NPY](https://drive.google.com/file/d/1i1JNUQqFJNJw6vbN_gukhMkrN2XxtO6_/view?usp=drive_link))
 
 - **Videos originales** (12 clases, ~100 videos/clase):  
-  🔗 [LSP_Dataset_Videos — Google Drive](https://drive.google.com/ENLACE_VIDEOS)
+  🔗 [LSP_Dataset_Videos — Google Drive]([https://drive.google.com/ENLACE_VIDEOS](https://drive.google.com/drive/folders/15Y34iFOEeOvshLIS-N4Z76hrDr1CzCmb?usp=sharing))
 
 ### Descripción del dataset
 
@@ -99,7 +99,7 @@ python code/modelo1_mejorado.py
 
 ---
 
-## 🏗️ Arquitectura del sistema
+## Arquitectura del sistema
 
 ```
 Video (cámara) → MediaPipe → Vector (60×96) → Transformer Encoder → Softmax → Clase LSP
@@ -110,7 +110,7 @@ Video (cámara) → MediaPipe → Vector (60×96) → Transformer Encoder → So
 
 ---
 
-## 📊 Hiperparámetros óptimos
+## Hiperparámetros óptimos
 
 ### JADE (mejor configuración)
 ```json
@@ -140,7 +140,7 @@ Video (cámara) → MediaPipe → Vector (60×96) → Transformer Encoder → So
 
 ---
 
-## 📚 Referencia
+## Referencia
 
 Si usas este código o dataset en tu investigación, por favor cita:
 
@@ -157,14 +157,14 @@ Si usas este código o dataset en tu investigación, por favor cita:
 
 ---
 
-## 📧 Contacto
+## Contacto
 
-**Enrique Villegas Medina**  
+**Jaime Enrique Villegas Medina**  
 Universidad Nacional de San Agustín de Arequipa  
 GitHub: [@Enrike123](https://github.com/Enrike123)
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto está bajo la licencia MIT. Ver archivo [LICENSE](LICENSE) para más detalles.
