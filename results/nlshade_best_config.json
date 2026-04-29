@@ -1,0 +1,23 @@
+{
+  "algorithm": "NL-SHADE",
+  "best_run": "run1",
+  "f1_validation": 0.9824,
+  "f1_test": 0.9704,
+  "training_time_s": 140.11,
+  "hyperparameters": {
+    "d_model": 192,
+    "n_heads": 6,
+    "n_layers": 4,
+    "ffw_mult": 2.50,
+    "dropout": 0.200,
+    "lr": 0.001600,
+    "batch_size": 32
+  },
+  "average_10_runs": {
+    "f1_validation_mean": 0.9757,
+    "f1_validation_std": 0.0040,
+    "f1_test_mean": 0.9628,
+    "f1_test_std": 0.0050,
+    "time_mean_s": 68.24
+  }
+}
