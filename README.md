@@ -55,10 +55,10 @@ LSP-Transformer-JADE-NLShade/
 El dataset no está incluido directamente en este repositorio por su tamaño (316.5 MB). Está disponible en Google Drive:
 
 - **Dataset preprocesado** (`.npy`, 316.5 MB):  
-  🔗 [gesture_dataset12clases_5aum.npy — Google Drive]([https://drive.google.com/ENLACE_DATASET_NPY](https://drive.google.com/file/d/1i1JNUQqFJNJw6vbN_gukhMkrN2XxtO6_/view?usp=drive_link))
+  🔗 🔗 [gesture_dataset12clases_5aum.npy — Google Drive](https://drive.google.com/file/d/1i1JNUQqFJNJw6vbN_gukhMkrN2XxtO6_/view?usp=drive_link)
 
 - **Videos originales** (12 clases, ~100 videos/clase):  
-  🔗 [LSP_Dataset_Videos — Google Drive]([https://drive.google.com/ENLACE_VIDEOS](https://drive.google.com/drive/folders/15Y34iFOEeOvshLIS-N4Z76hrDr1CzCmb?usp=sharing))
+  🔗 🔗 [LSP_Dataset_Videos — Google Drive](https://drive.google.com/drive/folders/15Y34iFOEeOvshLIS-N4Z76hrDr1CzCmb?usp=sharing)
 
 ### Descripción del dataset
 
