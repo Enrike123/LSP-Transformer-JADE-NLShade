@@ -4,7 +4,7 @@
 
 > Tesis de Maestría en Ciencias de la Computación  
 > Universidad Nacional de San Agustín de Arequipa (UNSA) — 2025  
-> Autor: Enrique Villegas Medina
+> Autor: Jaime Enrique Villegas Medina
 
 ---
 
