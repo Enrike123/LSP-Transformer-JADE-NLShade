@@ -73,7 +73,7 @@ El dataset no está incluido directamente en este repositorio por su tamaño (31
 
 ---
 
-## 🚀 Cómo usar
+## Cómo usar
 
 ### 1. Requisitos
 
@@ -160,6 +160,7 @@ Si usas este código o dataset en tu investigación, por favor cita:
 ## Contacto
 
 **Jaime Enrique Villegas Medina**  
+email: jvillegasm@unsa.edu.pe
 Universidad Nacional de San Agustín de Arequipa  
 GitHub: [@Enrike123](https://github.com/Enrike123)
 
